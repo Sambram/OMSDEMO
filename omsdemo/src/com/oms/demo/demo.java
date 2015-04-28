@@ -5,5 +5,6 @@ public class demo {
 	public static void main(String[] args) {
 		System.out.println("WELCOME TO OMS");
 		System.out.println("hello");
+		System.out.println("CHECK");
 	}
 }
